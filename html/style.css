@@ -1,0 +1,117 @@
+/* Desarrollo Web 1 */
+/* Nombre Práctica: Hola Mundo en varios Idiomas */
+/* Autor/a: Andre Axel Cadena Zepeda */
+/* Fecha de elaboración: 02/02/2023*/
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.mx{
+    color: green;
+    font-size: 100px;
+    position: absolute;
+    top: 190px;
+    right: 160px;
+    z-index: 1;
+    -webkit-text-stroke: 1px red;
+}
+.us{
+    color: blue;
+    font-size: 200px;
+    bottom: 120px;
+    left: 90px;
+    position: absolute;
+    z-index: 2;
+    -webkit-text-stroke: 1px white;
+}
+.jp{
+    color: red;
+    font-size: 130px;
+    position: absolute;
+    top: 320px;
+    right: 600px;
+    z-index: 3;
+    -webkit-text-stroke: 1px white;
+}
+.it{
+    color: purple;
+    font-size: 90px;
+    position: absolute;
+    top: 550px;
+    left: 800px;
+    z-index: 4;
+    -webkit-text-stroke: 1px red;
+}
+.hw{
+    color: coral;
+    font-size: 90px;
+    position: absolute;
+    top: 50px;
+    right: 400px;
+    z-index: 5;
+    -webkit-text-stroke: 1px blue;
+}
+.ru{
+    color: chartreuse;
+    font-size: 120px;
+    position: absolute;
+    right: 200px;
+    bottom: 150px;
+    z-index: 6;
+    -webkit-text-stroke: 1px navy;
+}
+.ko{
+    color: cyan;
+    font-size: 130px;
+    position: absolute;
+    top: 130px;
+    left: 75px;
+    z-index: 7;
+    -webkit-text-stroke: 1px yellow;
+}
+.po{
+    color: gold;
+    font-size: 70px;
+    position: absolute;
+    top: 240px;
+    right: 250px;
+    z-index: 8;
+    -webkit-text-stroke: 1px green;
+}
+.hi{
+    color: brown;
+    font-size: 80px;
+    position: absolute;
+    left: 600px;
+    top: 250px;
+    z-index: 9;
+    -webkit-text-stroke: 1px navy;
+}
+.he{
+    color: black;
+    font-size: 80px;
+    position: absolute;
+    right: 300px;
+    bottom: 300px;
+    z-index: 10;
+    -webkit-text-stroke: 1px gray;
+}
+.sw{
+    color: indigo;
+    font-size: 105px;
+    position: absolute;
+    left: 300px;
+    bottom: 520px;
+    z-index: 11;
+    -webkit-text-stroke: 1px coral;
+}
+
+
+
+
+
+
+
